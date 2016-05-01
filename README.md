@@ -1,7 +1,7 @@
 # Python-Projects
 This is a repository where I will attempt to do many small python projects
 
-<span class="c4">Project List</span>
+##Project List
 
 <span class="c6">Projects are ordered from easiest to hardest.</span>
 
