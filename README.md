@@ -6,9 +6,9 @@ This is a repository where I will attempt to do many small python projects
 Projects are ordered from easiest to hardest.
 
 
-[* 99 Bottles of Beer on the Wall Lyrics](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19kxre/project_99_bottles_of_beer_on_the_wall_lyrics/&sa=D&ust=1462127642368000&usg=AFQjCNFPuK0AIQA_GSDC34Tdoa9gelf7ag)
+* [99 Bottles of Beer on the Wall Lyrics](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19kxre/project_99_bottles_of_beer_on_the_wall_lyrics/&sa=D&ust=1462127642368000&usg=AFQjCNFPuK0AIQA_GSDC34Tdoa9gelf7ag)
 
-[Magic 8 Ball](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/&sa=D&ust=1462127642369000&usg=AFQjCNGgLR-D2g4Qg5H30j1kM97XNi41pg)
+* [Magic 8 Ball](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/&sa=D&ust=1462127642369000&usg=AFQjCNGgLR-D2g4Qg5H30j1kM97XNi41pg)
 
 [Pythagorean Triples Checker](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jwi6/project_pythagorean_triples_checker/&sa=D&ust=1462127642369000&usg=AFQjCNHBmLv916g4LfC9JJH7clqE_7xRAA)
 
