@@ -331,3 +331,8 @@ Security
 
 **Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.
 
+#Done
+
+* [99 Bottles of Beer on the Wall Lyrics](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19kxre/project_99_bottles_of_beer_on_the_wall_lyrics/&sa=D&ust=1462127642368000&usg=AFQjCNFPuK0AIQA_GSDC34Tdoa9gelf7ag)
+
+* [Magic 8 Ball](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/&sa=D&ust=1462127642369000&usg=AFQjCNGgLR-D2g4Qg5H30j1kM97XNi41pg)
