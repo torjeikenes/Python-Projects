@@ -10,7 +10,7 @@ Projects are ordered from easiest to hardest.
 
 * [Magic 8 Ball](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/&sa=D&ust=1462127642369000&usg=AFQjCNGgLR-D2g4Qg5H30j1kM97XNi41pg)
 
-[Pythagorean Triples Checker](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jwi6/project_pythagorean_triples_checker/&sa=D&ust=1462127642369000&usg=AFQjCNHBmLv916g4LfC9JJH7clqE_7xRAA)
+* [Pythagorean Triples Checker](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jwi6/project_pythagorean_triples_checker/&sa=D&ust=1462127642369000&usg=AFQjCNHBmLv916g4LfC9JJH7clqE_7xRAA)
 
 [Coin Estimator By Weight](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1idqw1/project_coin_estimator_by_weight/&sa=D&ust=1462127642369000&usg=AFQjCNFou-plgqPtKRA4hW77roYtpVINww)
 
