@@ -20,7 +20,7 @@ Projects are ordered from easiest to hardest.
 
 [Mean, Median, and Mode](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1eqt8i/function_mean_median_and_mode/&sa=D&ust=1462127642371000&usg=AFQjCNFVxYq1KA0rcbcVk0OyPDOz9GF-kQ)
 
-[Higher Lower Guessing Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jj9a/project_higherlower_guessing_game/&sa=D&ust=1462127642372000&usg=AFQjCNHM9ze4t8anOFKje1bZqVthVXwAqQ)
+* [Higher Lower Guessing Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jj9a/project_higherlower_guessing_game/&sa=D&ust=1462127642372000&usg=AFQjCNHM9ze4t8anOFKje1bZqVthVXwAqQ)
 
 [Multiplication Table](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/2agwnq/project_multiplication_table/&sa=D&ust=1462127642372000&usg=AFQjCNHUYhVzgtfdJyCuiG606KAifpV0jQ)
 
