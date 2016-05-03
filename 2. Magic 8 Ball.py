@@ -4,7 +4,7 @@ import sys
 
 print "Welcome to the magic 8-Ball"
 
-answers = ["Yes", "No", "Maybe", "Don't ask me", "If you are lucky", "Most likely", "Probably not", "Ask again later", "Most sources say no", "Don't count on it"]
+answers = ["Yes", "No", "Maybe", "Don't ask me", "If you are lucky", "Most likely", "Probably not",  "Most sources say no", "Don't count on it"]
 
 def question():
 	print "Type a question: "
