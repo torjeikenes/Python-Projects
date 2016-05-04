@@ -1,5 +1,6 @@
 # Python-Projects
-This is a repository where I will attempt to do many small python projects
+I will try to complete many of these projects in python to get better at the
+language. The ones marked with a dot are completed.
 
 ##Project List
 
@@ -26,7 +27,7 @@ Projects are ordered from easiest to hardest.
 
 [Fibonacci Sequence](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19r3qg/functionfibonacci_sequence/&sa=D&ust=1462127642373000&usg=AFQjCNFr4msm9dg2cEA5TOTJgJuTgYwSuQ)
 
-[Hangman Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1irw2j/project_hangman_game/&sa=D&ust=1462127642373000&usg=AFQjCNF67PNwiXZGneimRxdobI-x5H8jrg)
+* [Hangman Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1irw2j/project_hangman_game/&sa=D&ust=1462127642373000&usg=AFQjCNF67PNwiXZGneimRxdobI-x5H8jrg)
 
 [Menu Calculator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bytu5/projectmenu_calculator/&sa=D&ust=1462127642374000&usg=AFQjCNFbQrvv5CW_ySS7DTTpFuKcmoQ01g)
 
