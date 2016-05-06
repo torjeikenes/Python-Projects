@@ -2,18 +2,24 @@ from random import randint
 import sys
 
 amountOfRooms = 6
+tries = 3
 
 def randomRoom():
     room = int(randint(1, amountOfRooms))
     return room
 
 
-def whatRoom():
+def whatRoom(triesLeft):
     room = randomRoom()
     guess = int(raw_input("guess what room I am in: "))
     if(guess != room):
-        print "You guessed the wrong room."
-        end()
+        if(triesLeft <= 1):
+            print "You used all your tries"
+            end()
+        else:
+            print "You guessed the wrong room."
+            triesLeft -= 1
+            whatRoom(triesLeft)
     elif(guess == room):
         print "Congratulations! You found me"
         end()
@@ -24,7 +30,7 @@ def end():
     print "Do you want to play again? (y/n)"
     answer = raw_input().lower()
     if(answer == "y"):
-        whatRoom()
+        whatRoom(tries)
     elif(answer == "n"):
         sys.exit()
     else:
@@ -32,4 +38,4 @@ def end():
         end()
 
 
-whatRoom()
+whatRoom(tries)
