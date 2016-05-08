@@ -19,6 +19,8 @@ and then continue on the the next list. I will not do them in order.
 
 [Count and Fix Green Eggs and Ham](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1i6sax/challenge_count_and_fix_green_eggs_and_ham/&sa=D&ust=1462127642375000&usg=AFQjCNFyGevlrOr01tl88xXuixzDVaUOhw)
 
+[Creating a Dice Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/2aaeou/projectcreate_a_dice_simulator/&sa=D&ust=1462127642375000&usg=AFQjCNEYN2-WQ_mjLiNRkUqxDp47uv8M1A)
+
 ##Project List
 
 These were taken from the list at [r/beginnerprojects](https://www.reddit.com/r/benginnerprojects)
@@ -48,7 +50,9 @@ the projects with dots are completed.
 
 * [Menu Calculator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bytu5/projectmenu_calculator/&sa=D&ust=1462127642374000&usg=AFQjCNFbQrvv5CW_ySS7DTTpFuKcmoQ01g)
 
-[Dice Rolling Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1j50e7/project_dice_rolling_simulator/&sa=D&ust=1462127642374000&usg=AFQjCNHE8ppXIFazm_ZB1iFi1ctMGISpsQ) or [Creating a Dice Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/2aaeou/projectcreate_a_dice_simulator/&sa=D&ust=1462127642375000&usg=AFQjCNEYN2-WQ_mjLiNRkUqxDp47uv8M1A)
+[Dice Rolling Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1j50e7/project_dice_rolling_simulator/&sa=D&ust=1462127642374000&usg=AFQjCNHE8ppXIFazm_ZB1iFi1ctMGISpsQ)
+
+* [Creating a Dice Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/2aaeou/projectcreate_a_dice_simulator/&sa=D&ust=1462127642375000&usg=AFQjCNEYN2-WQ_mjLiNRkUqxDp47uv8M1A)
 
 * [Count and Fix Green Eggs and Ham](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1i6sax/challenge_count_and_fix_green_eggs_and_ham/&sa=D&ust=1462127642375000&usg=AFQjCNFyGevlrOr01tl88xXuixzDVaUOhw)
 
