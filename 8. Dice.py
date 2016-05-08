@@ -22,7 +22,7 @@ def dice():
     sides = getSides()
     throws = getThrows()
     results = []
-    for i in range(1, throws):
+    for i in range(0, throws):
         results.append(randint(1, sides))
     print results
 
