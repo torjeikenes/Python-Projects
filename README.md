@@ -1,7 +1,7 @@
 # Python-Projects
 These are many projects that I will try to complete using python. I will not do
 all of them, but the ones I find interesting. I will start with the first list
-and then continue on the the next list.
+and then continue on the the next list. I will not do them in order.
 
 ##Completed
 
