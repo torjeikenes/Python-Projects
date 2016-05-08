@@ -1,11 +1,28 @@
 # Python-Projects
-I will try to complete many of these projects in python to get better at the
-language. The ones marked with a dot are completed.
+These are many projects that I will try to complete using python. I will not do
+all of them, but the ones I find interesting. I will start with the first list
+and then continue on the the next list.
+
+##Completed
+
+[99 Bottles of Beer on the Wall Lyrics](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19kxre/project_99_bottles_of_beer_on_the_wall_lyrics/&sa=D&ust=1462127642368000&usg=AFQjCNFPuK0AIQA_GSDC34Tdoa9gelf7ag)
+
+[Magic 8 Ball](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/&sa=D&ust=1462127642369000&usg=AFQjCNGgLR-D2g4Qg5H30j1kM97XNi41pg)
+
+[Pythagorean Triples Checker](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jwi6/project_pythagorean_triples_checker/&sa=D&ust=1462127642369000&usg=AFQjCNHBmLv916g4LfC9JJH7clqE_7xRAA)
+
+[Higher Lower Guessing Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19jj9a/project_higherlower_guessing_game/&sa=D&ust=1462127642372000&usg=AFQjCNHM9ze4t8anOFKje1bZqVthVXwAqQ)
+
+[Hangman Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1irw2j/project_hangman_game/&sa=D&ust=1462127642373000&usg=AFQjCNF67PNwiXZGneimRxdobI-x5H8jrg)
+
+[Menu Calculator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bytu5/projectmenu_calculator/&sa=D&ust=1462127642374000&usg=AFQjCNFbQrvv5CW_ySS7DTTpFuKcmoQ01g)
+
+[Count and Fix Green Eggs and Ham](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1i6sax/challenge_count_and_fix_green_eggs_and_ham/&sa=D&ust=1462127642375000&usg=AFQjCNFyGevlrOr01tl88xXuixzDVaUOhw)
 
 ##Project List
 
-Projects are ordered from easiest to hardest.
-
+These were taken from the list at [r/beginnerprojects](https://www.reddit.com/r/benginnerprojects)
+the projects with dots are completed.
 
 * [99 Bottles of Beer on the Wall Lyrics](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19kxre/project_99_bottles_of_beer_on_the_wall_lyrics/&sa=D&ust=1462127642368000&usg=AFQjCNFPuK0AIQA_GSDC34Tdoa9gelf7ag)
 
@@ -29,11 +46,11 @@ Projects are ordered from easiest to hardest.
 
 * [Hangman Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1irw2j/project_hangman_game/&sa=D&ust=1462127642373000&usg=AFQjCNF67PNwiXZGneimRxdobI-x5H8jrg)
 
-[Menu Calculator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bytu5/projectmenu_calculator/&sa=D&ust=1462127642374000&usg=AFQjCNFbQrvv5CW_ySS7DTTpFuKcmoQ01g)
+* [Menu Calculator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bytu5/projectmenu_calculator/&sa=D&ust=1462127642374000&usg=AFQjCNFbQrvv5CW_ySS7DTTpFuKcmoQ01g)
 
 [Dice Rolling Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1j50e7/project_dice_rolling_simulator/&sa=D&ust=1462127642374000&usg=AFQjCNHE8ppXIFazm_ZB1iFi1ctMGISpsQ) or [Creating a Dice Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/2aaeou/projectcreate_a_dice_simulator/&sa=D&ust=1462127642375000&usg=AFQjCNEYN2-WQ_mjLiNRkUqxDp47uv8M1A)
 
-[Count and Fix Green Eggs and Ham](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1i6sax/challenge_count_and_fix_green_eggs_and_ham/&sa=D&ust=1462127642375000&usg=AFQjCNFyGevlrOr01tl88xXuixzDVaUOhw)
+* [Count and Fix Green Eggs and Ham](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1i6sax/challenge_count_and_fix_green_eggs_and_ham/&sa=D&ust=1462127642375000&usg=AFQjCNFyGevlrOr01tl88xXuixzDVaUOhw)
 
 [What’s My Number?](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1dbena/challenge_whats_my_number/&sa=D&ust=1462127642376000&usg=AFQjCNG5oNG2fEDQ3Zjew2ACpcbZXbUmUA)
 
@@ -53,11 +70,8 @@ Projects are ordered from easiest to hardest.
 
 [What’s the Weather?](https://www.google.com/url?q=http://www.google.com/url?q%3Dhttp%253A%252F%252Fwww.reddit.com%252Fr%252Fbeginnerprojects%252Fcomments%252F1dzbu7%252Fproject_whats_the_weather%252F%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFf09Z4uWfv77GeejytG3hAuhn5cw&sa=D&ust=1462127642380000&usg=AFQjCNEofpgxi75H63mB3eMFF2svM-pcQA)
 
-I might try these aswell
-
 Mega Project List
 ========
-
 A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
 To get started, simply fork this repo.
@@ -332,8 +346,3 @@ Security
 
 **Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.
 
-#Done
-
-* [99 Bottles of Beer on the Wall Lyrics](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/19kxre/project_99_bottles_of_beer_on_the_wall_lyrics/&sa=D&ust=1462127642368000&usg=AFQjCNFPuK0AIQA_GSDC34Tdoa9gelf7ag)
-
-* [Magic 8 Ball](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/&sa=D&ust=1462127642369000&usg=AFQjCNGgLR-D2g4Qg5H30j1kM97XNi41pg)
