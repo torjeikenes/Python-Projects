@@ -21,6 +21,8 @@ and then continue on the the next list. I will not do them in order.
 
 [Creating a Dice Simulator](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/2aaeou/projectcreate_a_dice_simulator/&sa=D&ust=1462127642375000&usg=AFQjCNEYN2-WQ_mjLiNRkUqxDp47uv8M1A)
 
+[What’s My Number?](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1dbena/challenge_whats_my_number/&sa=D&ust=1462127642376000&usg=AFQjCNG5oNG2fEDQ3Zjew2ACpcbZXbUmUA)
+
 ##Project List
 
 These were taken from the list at [r/beginnerprojects](https://www.reddit.com/r/benginnerprojects)
@@ -56,7 +58,7 @@ the projects with dots are completed.
 
 * [Count and Fix Green Eggs and Ham](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1i6sax/challenge_count_and_fix_green_eggs_and_ham/&sa=D&ust=1462127642375000&usg=AFQjCNFyGevlrOr01tl88xXuixzDVaUOhw)
 
-[What’s My Number?](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1dbena/challenge_whats_my_number/&sa=D&ust=1462127642376000&usg=AFQjCNG5oNG2fEDQ3Zjew2ACpcbZXbUmUA)
+* [What’s My Number?](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1dbena/challenge_whats_my_number/&sa=D&ust=1462127642376000&usg=AFQjCNG5oNG2fEDQ3Zjew2ACpcbZXbUmUA)
 
 [Factors of a Number](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1a0d82/function_factors_of_a_number/&sa=D&ust=1462127642376000&usg=AFQjCNFYHCHeM2VvgrVw2rWJ8vbO6a6D7w)
 
