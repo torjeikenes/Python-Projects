@@ -23,6 +23,8 @@ and then continue on the the next list. I will not do them in order.
 
 [What’s My Number?](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1dbena/challenge_whats_my_number/&sa=D&ust=1462127642376000&usg=AFQjCNG5oNG2fEDQ3Zjew2ACpcbZXbUmUA)
 
+[Countdown Clock](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bvdmq/project_countdown_clock/&sa=D&ust=1462127642377000&usg=AFQjCNHOH-ultJGCPs48LvelsEyaOczK1Q)
+
 ##Project List
 
 These were taken from the list at [r/beginnerprojects](https://www.reddit.com/r/benginnerprojects)
@@ -62,7 +64,7 @@ the projects with dots are completed.
 
 [Factors of a Number](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1a0d82/function_factors_of_a_number/&sa=D&ust=1462127642376000&usg=AFQjCNFYHCHeM2VvgrVw2rWJ8vbO6a6D7w)
 
-[Countdown Clock](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bvdmq/project_countdown_clock/&sa=D&ust=1462127642377000&usg=AFQjCNHOH-ultJGCPs48LvelsEyaOczK1Q)
+* [Countdown Clock](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1bvdmq/project_countdown_clock/&sa=D&ust=1462127642377000&usg=AFQjCNHOH-ultJGCPs48LvelsEyaOczK1Q)
 
 [Turn Based Pokemon Style Game](https://www.google.com/url?q=http://www.reddit.com/r/beginnerprojects/comments/1aw0iq/project_turn_based_pokemon_style_game/&sa=D&ust=1462127642377000&usg=AFQjCNHz-94ecUSEhCNFS3I_ou84aHwWbw)
 
